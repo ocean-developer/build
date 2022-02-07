@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99ca214e.chunk.css",
+    "main.js": "/static/js/main.416d021e.chunk.js",
+    "main.js.map": "/static/js/main.416d021e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.406dd86f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.406dd86f.js.map",
+    "static/css/2.5aa5d017.chunk.css": "/static/css/2.5aa5d017.chunk.css",
+    "static/js/2.3355f93d.chunk.js": "/static/js/2.3355f93d.chunk.js",
+    "static/js/2.3355f93d.chunk.js.map": "/static/js/2.3355f93d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.5aa5d017.chunk.css.map": "/static/css/2.5aa5d017.chunk.css.map",
+    "static/css/main.99ca214e.chunk.css.map": "/static/css/main.99ca214e.chunk.css.map",
+    "static/js/2.3355f93d.chunk.js.LICENSE.txt": "/static/js/2.3355f93d.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/freya.b02dd9d0.png": "/static/media/freya.b02dd9d0.b02dd9d0.png",
+    "static/media/logo.svg": "/static/media/logo.db36153e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406dd86f.js",
+    "static/css/2.5aa5d017.chunk.css",
+    "static/js/2.3355f93d.chunk.js",
+    "static/css/main.99ca214e.chunk.css",
+    "static/js/main.416d021e.chunk.js"
+  ]
+}
